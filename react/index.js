@@ -5,6 +5,7 @@ module.exports = {
         "plugin:jsx-a11y/recommended",
 		"airbnb",
 		"prettier",
+        "plugin:import/recommended",
 		"plugin:unicorn/recommended",
 		"plugin:jsdoc/recommended",
 		"plugin:react-hooks/recommended"

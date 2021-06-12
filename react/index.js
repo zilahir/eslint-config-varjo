@@ -4,6 +4,7 @@ module.exports = {
     extends: [
         "plugin:jsx-a11y/recommended",
 		"airbnb",
+        "plugin:@typescript-eslint/eslint-recommended",
 		"prettier",
         "plugin:import/recommended",
 		"plugin:unicorn/recommended",

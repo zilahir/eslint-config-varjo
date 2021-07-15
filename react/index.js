@@ -5,7 +5,7 @@ module.exports = {
         "plugin:jsx-a11y/recommended",
 		"airbnb",
         "plugin:@typescript-eslint/eslint-recommended",
-		"prettier",
+        "plugin:@typescript-eslint/recommended",
         "plugin:import/recommended",
 		"plugin:unicorn/recommended",
 		"plugin:jsdoc/recommended",

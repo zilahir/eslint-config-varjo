@@ -1,4 +1,4 @@
-module.exports = {
+const baseRules = {
 	indent: ["error", "tab"],
 	"no-tabs": "off",
 	"object-curly-newline": "off",
